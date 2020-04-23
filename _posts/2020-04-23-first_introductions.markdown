@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "first, introductions!"
-date:       2020-04-23 19:43:43 +0000
+date:       2020-04-23 15:43:44 -0400
 permalink:  first_introductions
 ---
 
