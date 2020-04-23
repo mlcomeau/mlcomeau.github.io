@@ -1,11 +1,11 @@
 # Site settings
 author: Megan Comeau
-title: 
+title: Megan's Blog 
 header-img: img/home-bg.png
 email: mlcomeau99@gmail.com
 copyright_name: Megan Comeau
 description: > # this means to ignore newlines until "baseurl:"
-  
+  a blog about learning software stuff
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mlcomeau
